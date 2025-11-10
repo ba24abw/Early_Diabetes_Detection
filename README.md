@@ -1,1 +1,1 @@
-# my_project
+early_diabetes_detection
